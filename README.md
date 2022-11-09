@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ypc7236
 - 👀 I’m interested in Photograph
-- 🌱 I’m currently learning MySQL JSP
-- 💞️ I’m love zengyun
+- 🌱 I’m currently learning Springboot,MybatisPlus,Vue,Node.js
+- 💞️ I’m love Coca—Cola
 - 📫 How to reach me https://t.me/usertdcq
 
 <!---
